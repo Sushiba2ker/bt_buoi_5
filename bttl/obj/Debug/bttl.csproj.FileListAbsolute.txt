@@ -1,0 +1,16 @@
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\bttl.exe.config
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\bttl.exe
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\bttl.pdb
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\EntityFramework.dll
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\EntityFramework.xml
+C:\Users\sushiba\source\repos\bttl\bttl\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.csproj.AssemblyReference.cache
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.csproj.SuggestedBindingRedirects.cache
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.Form1.resources
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.Properties.Resources.resources
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.csproj.GenerateResource.cache
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.csproj.CoreCompileInputs.cache
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.csproj.CopyComplete
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.exe
+C:\Users\sushiba\source\repos\bttl\bttl\obj\Debug\bttl.pdb
